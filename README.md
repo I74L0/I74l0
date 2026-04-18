@@ -22,7 +22,7 @@
     <code><img width="5%" src="icones/terminal-bash-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/scss2-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/dart-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/n8n.svg"></code>
+    <code><img width="5%" src="icones/n8n-color.svg"></code>
     <code><img width="5%" src="icones/powershell-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/git-icon-logo-svgrepo-com.svg"></code>
   </div>
@@ -31,10 +31,12 @@
 <hr>
 
 <div>
-  <img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
-  
-   <div align="end"> 
-      <a href="https://Wa.me//5579999997796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
-      <a href="https://www.linkedin.com/in/i74l0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
+  <div>
+    <img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
   </div>
- </div>
+  
+  <div align="end"> 
+    <a href="https://Wa.me//5579999997796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+    <a href="https://www.linkedin.com/in/i74l0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
+  </div>
+</div>

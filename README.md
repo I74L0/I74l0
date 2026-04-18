@@ -26,12 +26,13 @@
     <code><img width="5%" src="icones/powershell-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/git-icon-logo-svgrepo-com.svg"></code>
   </div>
-  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:'50px';" src="https://cdn-icons-png.flaticon.com/512/619/619054.png?w=740&t=st=1674931409~exp=1674932009~hmac=6b38b153315f41d5dbaf146c"> -->
-  </div>
+</div>
  
 <hr>
 
- <div>
+<img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
+
+<div>
   <picture >
     <source media="not all" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" class="source-dark">
     <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" class="source-light">

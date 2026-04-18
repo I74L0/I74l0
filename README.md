@@ -1,5 +1,3 @@
-<img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
-
 <div align="center">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=I74L0&theme=radical&border_radius=6 background=45%2C000000%2C130F40" alt="GitHub Streak" />
   <img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I74L0&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&hide=html,markdown,javascript,css,powershell,batchfile,makefile"/>
@@ -33,11 +31,7 @@
 <hr>
 
 <div>
-  <picture >
-    <source media="not all" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" class="source-dark">
-    <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" class="source-light">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-  </picture>
+  <img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
   
    <div align="end"> 
       <a href="https://Wa.me//5579999997796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>

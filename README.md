@@ -7,9 +7,9 @@
 
 <div align="center" display:"flex">
   <div>
-    <code><img width="5%" src="https://www.svgrepo.com/show/373554/django.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/374175/vue.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452092/react.svg"></code>
+    <code><img width="5%" src="icones/c-plusplus-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/csharp-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/java-svgrepo-com.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>

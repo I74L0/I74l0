@@ -1,5 +1,7 @@
- <div align="center">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=I74L0&theme=radical&border_radius=6&background=45%2C000000%2C130F40" alt="GitHub Streak" />
+<img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
+
+<div align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=I74L0&theme=radical&border_radius=6 background=45%2C000000%2C130F40" alt="GitHub Streak" />
   <img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I74L0&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&hide=html,markdown,javascript,css,powershell,batchfile,makefile"/>
 </div>
 
@@ -29,8 +31,6 @@
 </div>
  
 <hr>
-
-<img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
 
 <div>
   <picture >

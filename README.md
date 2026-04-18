@@ -10,17 +10,17 @@
     <code><img width="5%" src="icones/c-plusplus-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/csharp-svgrepo-com.svg"></code>
     <code><img width="5%" src="icones/java-svgrepo-com.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
+    <code><img width="5%" src="icones/mysql-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/docker-svgrepo-com.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/448236/linux.svg"></code>
-    <code><img width="5%" src="https://pouch.jumpshare.com/preview/HbThpZHYd6ViIW5Tb1RPR6_-J7JpkYO3awobMZVV4eLcvkW9fzxgyMktIe49ZOeRDfMO5sQi41FI15ck8RHMD6FMt0wxuCThkCfb5UDObZM"></code>
+    <code><img width="5%" src="icones/linux-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/python-svgrepo-com.svg"></code>
   </div>
   <div>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452091/python.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452183/cpp.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/374056/rust.svg"></code>
+    <code><img width="5%" src="icones/react-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/godot-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/terminal-bash-svgrepo-com.svg"></code>
+    <code><img width="5%" src="icones/scss2-svgrepo-com.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/353795/go.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/374088/solidity.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/353423/arduino.svg"></code>

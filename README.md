@@ -7,24 +7,24 @@
 
 <div align="center" display:"flex">
   <div>
-    <code><img width="5%" src="icones/c-plusplus-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/csharp-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/java-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/mysql-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/docker-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/figma-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/linux-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/python-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/c-plusplus-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/csharp-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/java-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/mysql-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/docker-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/figma-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/linux-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/python-svgrepo-com.svg"></code>
   </div>
   <div>
-    <code><img width="5%" src="icones/react-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/godot-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/terminal-bash-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/scss2-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/dart-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/n8n-color.svg"></code>
-    <code><img width="5%" src="icones/powershell-svgrepo-com.svg"></code>
-    <code><img width="5%" src="icones/git-icon-logo-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/react-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/godot-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/terminal-bash-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/scss2-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/dart-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/html-5-logo-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/powershell-svgrepo-com.svg"></code>
+    <code><img width="8%" src="icones/git-icon-logo-svgrepo-com.svg"></code>
   </div>
 </div>
  
@@ -32,8 +32,10 @@
 
 <div>
   <div>
-    <img align="right" alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
+    <img alt="Octo-nyan-cat" src="icones/octocat-meow.gif">
   </div>
+
+  <br>
   
   <div align="end"> 
     <a href="https://Wa.me//5579999997796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
